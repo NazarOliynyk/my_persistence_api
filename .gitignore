@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+.idea
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+=======
+.idea
+>>>>>>> origin/master
